@@ -1,7 +1,3 @@
-function log(message){
-    console.log(message)
-}
-
-var message="Hello World"
-
-log(message)
+let count;
+count = 'a'
+count = 5
